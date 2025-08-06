@@ -21,7 +21,3 @@ Below is a summary of the assignments, the problems solved, and the key methods 
 *   **HW 5 & 6: Nonlinear Equations & Harmonic Oscillators**
     *   **Description:** Applied root-finding methods for nonlinear equations and analyzed a damped harmonic oscillator using Chebyshev expansion.
     *   **Skills:** `Function Evaluation`, `Numerical Analysis`, `Python`.
-
-*   **HW 7 & 8: Band Structure & Random Variables**
-    *   **Description:** Solved eigensystems for tight-binding band structures and performed analysis on random variables.
-    *   **Skills:** `Eigensystems`, `Probability & Statistics`, `NumPy`.
